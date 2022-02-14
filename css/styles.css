@@ -1,0 +1,54 @@
+.bottom-cloud{
+	position:absolute;
+	bottom:300px;
+	left:200px;
+}
+
+.top-cloud{
+	margin-top:50px;
+	position:absolute;
+	right:200px;
+	top:155px;
+}
+
+.top-container{
+	padding-top:300px;
+	margin:0px;
+	height:100%;
+	background-color:#E4F9F5;
+	position:relative;
+}
+
+.middle-container{
+	margin:0px;
+	position:relative;
+}
+
+.bottom-container{
+	margin:0px;
+	position:relative;
+}
+
+h1{
+	margin:0px;
+	font-family: 'Sacramento', serif;
+}
+
+h2{
+	margin:0px;
+	font-family: 'Montserrat', serif;
+	color:#40514E;
+}
+
+h3{
+	margin:0px;
+	font-family: 'Montserrat', serif;
+}
+
+body{
+	margin:0px;
+	text-align:center;
+	font-family: 'Merriweather', serif;
+}
+
+
